@@ -1,0 +1,8 @@
+本文档用于统计固定文件夹下文件大小分布情况，单位为1KB。
+
+最终将结果放入execl表格中，格式例如： 
+1kb  4(个数)
+2KB  2(个数)...
+
+
+之后可将该execl中的数据放入https://www.tubiaoxiu.com/src/index.html等处生成简易的数据分布图。其中用到了一些python库可以pip一下。
